@@ -1,2 +1,2 @@
-# Git1
-Directions on how to contribute to OS project
+# TensorFlow Quantum QAOA Project
+Summer 2020 project working with TensorFlow Quantum to explore quantum-classical hybrid ML models relative to QAOA
